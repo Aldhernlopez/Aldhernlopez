@@ -22,7 +22,7 @@ I'm an avid fan of the sport Football (no not the American one lol 🏈). It was
 
 Another one of the hobbies I recently picked up is playing the Guitar 🎸. Its only been a few months so I'm still getting used to it. I've always wanted to play this instrument but it was way too expensive for me back when I was in school so I had to wait till I was 22 - and the wait was worth it 🔥.
 
-Other things I spend my time on includes gardening🪴(mainly Bougainvilleas and some other plants I liked when I came across them ), mobile gaming and scouring youtube to learn something interesting every now and then - like how I came across the 3D rendering tool Sketchup recently and I got instanly drawn into it (pun intended 🫣). 
+Other things I spend my time on includes gardening🪴(mainly Bougainvilleas and some other plants I liked when I came across them ), mobile gaming, the occasional binge watching of movie franchises and series' and scouring Youtube to learn something interesting every now and then - like how I came across the 3D rendering tool Sketchup recently and I got instanly drawn into it (pun intended 🫣). 
 
 That's almost everything about me. Hit me up if you want to get in touch with me.
 That's all Folks! Adiós 😉
