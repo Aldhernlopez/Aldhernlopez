@@ -25,4 +25,4 @@ Another one of the hobbies I recently picked up is playing the Guitar 🎸. Its 
 Other things I spend my time on includes gardening🪴(mainly Bougainvilleas and some other plants I liked when I came across them 😂), mobile gaming and scouring youtube to learn something interesting every now and then - like how I came across the 3D rendering tool Sketchup recently and I got instanly drawn into it (pun intended 🫣). 
 
 That's almost everything about me. Hit me up if you want to get in touch with me.
-That's all Folks! Adiós 😉!
+That's all Folks! Adiós 😉
