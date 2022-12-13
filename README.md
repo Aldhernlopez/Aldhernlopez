@@ -18,7 +18,7 @@ I completed my 10th (ICSE) and 12th (ISC) from Don Bosco Senior Secondary School
 
 -> My Interests and Hobbies ⚽
 
-I'm an avid fan of the sport Football (no not the American one lol 🏈). It was one of those things where I could totally enjoy playing this sport with my friends while not getting bummed out about what I was going through so it became a part of my life. I am one of the millions of FC Barcelona fans out there in the world - not because of the high profile names that plays/did play for Barca but for their style of play aka tiki-taka. I enjoy watching the games - even if it means I have to stay up till 3am - because its that good of a sport 😂.
+I'm an avid fan of the sport Football (no not the American one lol 🏈). It was one of those things where I could totally enjoy playing this sport with my friends while not getting bummed out about what I was going through so it became a part of my life. I am one of the millions of FC Barcelona fans out there in the world - not because of the high profile names that plays/did play for Barca but for their style of play aka tiki-taka. I enjoy watching the games - even if it means I have to stay up till 3am - because it's that good of a sport 😂.
 
 Another one of the hobbies I recently picked up is playing the Guitar 🎸. Its only been a few months so I'm still getting used to it. I've always wanted to play this instrument but it was way too expensive for me back when I was in school so I had to wait till I was 22 - and the wait was worth it 🔥.
 
