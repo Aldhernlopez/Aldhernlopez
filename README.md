@@ -1,28 +1,30 @@
-Hello there 👀
-
-It's Aldhern, here to describe more about myself and what I do 😙
-
+## 💫 About Me:
+Hey there! I'm Aldhern, an aspiring Android Developer. I'm currently working with the Flutter framework, in order to learn the craft. I am currently working on a couple of projects, all of which you can find in my Portfolio. Do check them out!
 
 
--> What I do 💻
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aldhern_) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aldhern) 
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/aldhern_) 
 
-I'm Flutter developer, which means I can develop applications for both Android and iOS (mainly android at the moment). I do have a few app ideas in mind that I hope to deploy soon which would help me get more and more familiarized with the Flutter framework thereby making me employable and slowly work towards the goals I've set for myself 🤞.
+## 💻 Tech Stack:
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) 
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) 
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) 
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) 
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) 
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
+![Proto.io](https://img.shields.io/badge/Proto.io-161637?style=for-the-badge&logo=proto.io&logoColor=00e5ff)
+
+## 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Aldhernlopez&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Aldhernlopez&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aldhernlopez&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 
+---
+[![](https://visitcount.itsvg.in/api?id=Aldhernlopez&icon=3&color=3)](https://visitcount.itsvg.in)
 
--> Educational Background 📖
-
-I completed my 10th (ICSE) and 12th (ISC) from Don Bosco Senior Secondary School Vaduthala in 2015 and 2017 respectively. I did obtain a Distinction and First Class grade for the board exams. I then decided to go for a Bachelors degree in Computer Science Engineering from College of Engineering Cherthala to fulfil my dream of becoming an android developer. I did hit a few roadblocks in those four years which resulted in a handful of backlogs by the time I finished the four years in college. I am in the process of clearing those backlogs to finally collect my Degree Certificate (1 more to go as of writing) and hopefully it wont be long until I can officially call myself an "Engineer". I do plan on getting a Masters Degree - but that's something for the future me figure out.
-
-
-
--> My Interests and Hobbies ⚽
-
-I'm an avid fan of the sport Football (no not the American one lol). It was one of those things where I could totally enjoy playing this sport with my friends while not getting bummed out about what I was going through so it became a part of my life. I am one of the millions of FC Barcelona fans out there in the world - not because of the high profile names that plays/did play for Barca but for their style of play aka tiki-taka. I enjoy watching the games - even if it means I have to stay up till 3am - because it's that good of a sport 😂.
-
-Another one of the hobbies I recently picked up is playing the Guitar 🎸. Its only been a few months so I'm still getting used to it. I've always wanted to play this instrument but it was way too expensive for me back when I was in school so I had to wait till I was 22 - and the wait was worth it 🔥.
-
-Other things I spend my time on includes gardening🪴(mainly Bougainvilleas and some other plants I liked when I came across them ), the occasional binge watching of movie franchises and series' and scouring Youtube to learn something interesting every now and then. 
-
-That's almost everything about me. Hit me up if you want to get in touch with me.
-That's all Folks! Adiós 😉
